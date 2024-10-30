@@ -1,4 +1,4 @@
-# invasivemammal_dungbeetle
+# InvasiveMammalDungBeetle
 "Invasive mammals disrupt native dung beetle community coexistence."Code of Akashi et al. 2024 
 
 ## Description of the data and file structure
